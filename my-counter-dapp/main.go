@@ -8,7 +8,7 @@ import (
 	"math/big"
 	"time"
 
-	"my-counter-dapp/counter"
+	"github.com/gaojianshuai/mydapp_backend1/tree/main/my-counter-dapp/counter"
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/crypto"
